@@ -1,0 +1,11 @@
+
+
+
+.primary {
+    background-color: #0072bc;
+    color: white;
+    padding: 8px 32px;
+    border: none;
+    outline: none;
+    border-radius: 8px;
+}
